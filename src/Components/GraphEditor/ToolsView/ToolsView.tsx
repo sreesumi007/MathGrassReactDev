@@ -45,7 +45,7 @@ return (
       </header>
       <div className="card" style={{ width: "18rem" }}>
         <div className="card-body">
-          <h5 className="card-title text-center">Graph Type</h5>
+          <h5 className="card-title text-center">GRAPH TYPE</h5>
           <h6 className="card-subtitle mb-2 text-muted text-center">Directed/Undirected</h6>
           {/* Toggle button  -- Start*/}
           <div className="form-check form-switch"  style={{marginLeft: "4rem"}}>
